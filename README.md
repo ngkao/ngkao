@@ -1,6 +1,6 @@
 # Hi there! My name is NG 👋 
 
-👏 ***About Me***
+😄 ***About Me***
 
   I am a [BrainStation](https://brainstation.io) bootcamp SE graduate and a self-taught programmer.
 <br />
@@ -30,3 +30,7 @@
 📬 ***Contact Me***
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngkao/)
+
+---
+
+**Check out my projects below**👇
