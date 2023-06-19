@@ -8,7 +8,7 @@
 <br />
   During my free time, I like playing tennis, running, snowboarding and doing anything outdoors.
 <br />
-  I am based in Toronto 🇨🇦 .
+  I am based in Toronto (https://hatscripts.github.io/circle-flags/flags/ca.svg) .
 
 🛠️ ***Technical Skills***
 
