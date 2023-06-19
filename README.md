@@ -1,6 +1,6 @@
 # Hi there! My name is NG 👋 
 
-🆖 ***Background***
+👏 ***About Me***
 
   I am a [BrainStation](https://brainstation.io) bootcamp SE graduate and a self-taught programmer.
 <br />
