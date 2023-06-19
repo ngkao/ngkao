@@ -33,5 +33,5 @@
 
 ---
 <p align="center">
-**Check out my projects below**👇
+ <strong>Check out my projects below👇 </strong>
 </p>
