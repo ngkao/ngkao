@@ -2,7 +2,7 @@ Hi there 👋
 <br />
 My name is 🆖!
 
-⚡️ I am a bootcamp SE graduate and a self-taught programmer.
+⚡️ I am a [BrainStation](https://brainstation.io) bootcamp SE graduate and a self-taught programmer.
 <br />
 📊 In my previous life, I was a Financial Analyst at Lightspeed Commerce.
 <br />
