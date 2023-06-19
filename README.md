@@ -9,3 +9,8 @@ My name is 🆖!
 🎾 During my free time, I like playing tennis, running, snowboarding and doing anything outdoors.
 <br />
 📌 I am based in Toronto.
+
+🛠️ Technical Skills
+
+Contact Me
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
