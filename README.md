@@ -8,4 +8,4 @@ My name is 🆖!
 <br />
 🎾 During my free time, I like playing tennis, running, snowboarding and doing anything outdoors.
 <br />
-✈️ I recently moved from Montreal to Toronto.
+📌 I am based in Toronto.
