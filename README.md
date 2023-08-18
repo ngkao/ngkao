@@ -2,7 +2,7 @@
 
 😄 ***About Me***
 <br />
-  Currently building a vendor management platform for SMBs and their suppliers at [Midaflow](https://www.midaflow.com/) as a Software Developer Intern
+  Currently building a vendor management platform for SMBs at [Midaflow](https://www.midaflow.com/) as a Software Developer Intern
 <br />
   I am a [BrainStation](https://brainstation.io) bootcamp SE graduate and a self-taught programmer.
 <br />
