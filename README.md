@@ -2,15 +2,15 @@
 
 😄 ***About Me***
 
-  ▪️ I'm currently building a vendor management platform for SMBs at [Midaflow](https://www.midaflow.com/) as a Software Developer Intern.
+  ▪️ Currently building a vendor management platform for SMBs at [Midaflow](https://www.midaflow.com/) as a Software Developer Intern.
 <br />
-  ▪️ I'm a [BrainStation](https://brainstation.io) bootcamp SE graduate and a self-taught programmer.
+  ▪️ [BrainStation](https://brainstation.io) bootcamp SE graduate and a self-taught programmer.
 <br />
   ▪️ In my previous life, I was a Financial Analyst at [Lightspeed Commerce](https://www.lightspeedhq.com/).
 <br />
   ▪️ During my free time, I like playing tennis, running, snowboarding and doing anything outdoors.
 <br />
-  ▪️ I'm based in Toronto <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="15">.
+  ▪️ Based in Toronto <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="15">.
 
 🛠️ ***Technical Skills***
 
