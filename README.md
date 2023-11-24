@@ -2,7 +2,7 @@
 
 😄 ***About Me***
 
-  ▪️ Currently building a vendor management platform for SMBs at [Midaflow](https://www.midaflow.com/) as a Software Developer Intern.
+  ▪️ Currently building a social payments app for Canadians at [Mosea](https://www.mosea.io/en-CA) as a Junior Software Engineer.
 <br />
   ▪️ [BrainStation](https://brainstation.io) bootcamp SE graduate and a self-taught programmer.
 <br />
