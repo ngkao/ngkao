@@ -2,11 +2,11 @@
 
 😄 ***About Me***
 
-  ▪️ Currently building a social payments app for Canadians at [Mosea](https://www.mosea.io/en-CA) as a Junior Software Engineer.
+  ▪️ Currently working in Strategic Finance for a fintech company while coding on the side.
+<br />
+  ▪️ Developed a social payments app for Canadians and a B2B vendor management platform for startups.
 <br />
   ▪️ [BrainStation](https://brainstation.io) bootcamp SE graduate and a self-taught programmer.
-<br />
-  ▪️ In my previous life, I was a Financial Analyst at [Lightspeed Commerce](https://www.lightspeedhq.com/).
 <br />
   ▪️ During my free time, I like playing tennis, running, snowboarding and doing anything outdoors.
 <br />
