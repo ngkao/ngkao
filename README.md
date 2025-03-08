@@ -2,15 +2,13 @@
 
 😄 ***About Me***
 
-  ▪️ Currently working in Strategic Finance for a fintech company while coding on the side.
 <br />
   ▪️ Developed a social payments app for Canadians and a B2B vendor management platform for startups.
 <br />
   ▪️ [BrainStation](https://brainstation.io) bootcamp SE graduate and a self-taught programmer.
 <br />
-  ▪️ During my free time, I like playing tennis, running, snowboarding and doing anything outdoors.
-<br />
-  ▪️ Based in Toronto <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="15">.
+
+
 
 🛠️ ***Technical Skills***
 
