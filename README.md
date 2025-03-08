@@ -5,7 +5,7 @@
 <br />
   ▪️ Developed a social payments app for Canadians and a B2B vendor management platform for startups.
 <br />
-  ▪️ [BrainStation](https://brainstation.io) bootcamp SE graduate and a self-taught programmer.
+  ▪️ Bootcamp SE graduate and a self-taught programmer.
 <br />
 
 
